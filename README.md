@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README defines the Karaoke Request Web app
 
-Things you may want to cover:
+Things to know:
 
-* Ruby version
+* Ruby version - 5.1.6
 
-* System dependencies
+* System dependencies (TODO)
 
-* Configuration
+* Configuration (TODO)
 
-* Database creation
+* Database creation (TODO)
 
-* Database initialization
+* Database initialization (TODO)
 
-* How to run the test suite
+* How to run the test suite (TODO)
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.) (TODO)
 
-* Deployment instructions
+* Deployment instructions (TODO)
 
 * ...
